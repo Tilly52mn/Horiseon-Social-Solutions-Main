@@ -7,3 +7,7 @@
      # Changed the div containing the SEO, online rep mangmt, and social media marketing to main
      # Changed the last div to footer and updated the css to not referance the class footer but the footer it's self
      # Changed all of the divs now contained in main and aside from div to section
+# Accessabliity Changes
+     # added alt text to SEO Image
+     # added alt text to online rep mngtm Image
+     # added alt text to Social media marketing Image
