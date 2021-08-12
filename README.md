@@ -11,3 +11,9 @@
      # added alt text to SEO Image
      # added alt text to online rep mngtm Image
      # added alt text to Social media marketing Image
+#CSS Clean up changes
+     # changed classes .benifit-brand, benifit-cost, benifit-lead to benfit
+     # removed redundent css as a result of above change
+     # removed classes and ids search-engine-optimization, online-reputation-managment, and social-media-marketing
+     # changed css relating to above class and ids to be .content section from the previousely referanced class or id
+     # removed redundent css as a result of above change
