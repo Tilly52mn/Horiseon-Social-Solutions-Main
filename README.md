@@ -1,1 +1,9 @@
-# Code Refactor Starter Code
+# Code Refactor Code Changes
+# Semantic Changes
+     # Changed title From Website To Heriseon Social Solution Services 
+     # Changed the first div to header and updated the css to not referance the class header but the header it's self
+     # Changed the div inside of the header to be nav along with it's corrisponding css callouts
+     # Changed the div containing lead gen, bradn awearness and cost mang to aside
+     # Changed the div containing the SEO, online rep mangmt, and social media marketing to main
+     # Changed the last div to footer and updated the css to not referance the class footer but the footer it's self
+     # Changed all of the divs now contained in main and aside from div to section
