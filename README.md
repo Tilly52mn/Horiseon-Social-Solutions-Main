@@ -18,3 +18,9 @@
      # changed css relating to above class and ids to be .content section from the previousely referanced class or id
      # removed redundent css as a result of above change
      *added comments and reordered css file
+# Link to deployed application
+[Link to the deployed webpage](https://tilly52mn.github.io/Horiseon-Social-Solutions-Main/)
+# snapshot of page
+![webpage top](1.png)
+![webpage top](2.png)
+![webpage top](3.png)
